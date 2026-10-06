@@ -4,7 +4,7 @@ WordPress & Android developer focused on digital publishing, automation, API int
 
 ## Selected Projects
 
-### KASSEM Theme â€” BeirutTime
+### KASSEM Theme — BeirutTime
 
 <a href="https://github.com/fortyspring/kassem-theme">
   <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/beiruttime.png" alt="KASSEM Theme / BeirutTime" width="100%">
@@ -14,7 +14,7 @@ Professional Arabic RTL WordPress publishing theme used for the BeirutTime news 
 
 **Live:** https://beiruttime-lb.com/
 
-### Kassem Commerce â€” KlikLeb
+### Kassem Commerce — KlikLeb
 
 <a href="https://github.com/fortyspring/kassem-commerce">
   <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/klikleb.png" alt="Kassem Commerce / KlikLeb" width="100%">
@@ -55,4 +55,4 @@ Commercial and production source code is maintained in private repositories.
 
 Public repositories are intended for professional project showcases and documentation only. They do not contain proprietary production source code, credentials, signing keys, private APIs, deployment secrets, APK files, or commercial installation packages.
 
-Â© 2026 Mohamad Kassem. All rights reserved.
+© 2026 Mohamad Kassem. All rights reserved.
