@@ -7,7 +7,7 @@ WordPress & Android developer focused on digital publishing, automation, API int
 ### KASSEM Theme — BeirutTime
 
 <a href="https://github.com/fortyspring/kassem-theme">
-  <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/beiruttime.png" alt="KASSEM Theme / BeirutTime" width="100%">
+  <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/beiruttime-bright.png" alt="KASSEM Theme / BeirutTime" width="100%">
 </a>
 
 Professional Arabic RTL WordPress publishing theme used for the BeirutTime news platform.
