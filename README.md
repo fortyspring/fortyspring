@@ -2,18 +2,38 @@
 
 WordPress & Android developer focused on digital publishing, automation, API integrations, media platforms, and production-grade content systems.
 
-## Selected projects
+## Selected Projects
 
 ### KASSEM Theme â€” BeirutTime
-[![KASSEM Theme / BeirutTime](assets/beiruttime.png)](https://github.com/fortyspring/kassem-theme)
+
+<a href="https://github.com/fortyspring/kassem-theme">
+  <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/beiruttime.png" alt="KASSEM Theme / BeirutTime" width="100%">
+</a>
+
+Professional Arabic RTL WordPress publishing theme used for the BeirutTime news platform.
+
+**Live:** https://beiruttime-lb.com/
 
 ### Kassem Commerce â€” KlikLeb
-[![Kassem Commerce / KlikLeb](assets/klikleb.png)](https://github.com/fortyspring/kassem-commerce)
 
-### Android applications
-[![The Verificat Apps](assets/apps.png)](https://github.com/fortyspring/beiruttime-app)
+<a href="https://github.com/fortyspring/kassem-commerce">
+  <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/klikleb.png" alt="Kassem Commerce / KlikLeb" width="100%">
+</a>
+
+Professional WooCommerce framework for product management, inventory, responsive storefronts, and commerce workflows.
+
+**Live:** https://klikleb.com/
+
+### Android Applications
+
+<a href="https://github.com/fortyspring/beiruttime-app">
+  <img src="https://raw.githubusercontent.com/fortyspring/fortyspring/main/assets/apps.png" alt="The Verificat Apps" width="100%">
+</a>
+
+Android applications for news publishing, mobile content delivery, notifications, and newsroom operations.
 
 ## Products
+
 - [KASSEM Theme](https://github.com/fortyspring/kassem-theme)
 - [Kassem Commerce](https://github.com/fortyspring/kassem-commerce)
 - [BeirutTime App](https://github.com/fortyspring/beiruttime-app)
@@ -22,13 +42,17 @@ WordPress & Android developer focused on digital publishing, automation, API int
 - [Qassem SEO Pro](https://github.com/fortyspring/qassem-seo-pro)
 - [WP Multi Publisher](https://github.com/fortyspring/wp-multi-publisher)
 
-## Official links
-- BeirutTime: https://beiruttime-lb.com/
-- The Verificat Agency: https://theverificat.com/
-- Ya Lebanon: https://yalebnan.org/
-- KlikLeb: https://klikleb.com/
+## Official Links
 
-## Source code policy
-Commercial and production source code is maintained in private repositories. Public repositories are product showcases and documentation only.
+- **BeirutTime:** https://beiruttime-lb.com/
+- **The Verificat Agency:** https://theverificat.com/
+- **Ya Lebanon:** https://yalebnan.org/
+- **KlikLeb:** https://klikleb.com/
+
+## Source Code Policy
+
+Commercial and production source code is maintained in private repositories.
+
+Public repositories are intended for professional project showcases and documentation only. They do not contain proprietary production source code, credentials, signing keys, private APIs, deployment secrets, APK files, or commercial installation packages.
 
 Â© 2026 Mohamad Kassem. All rights reserved.
